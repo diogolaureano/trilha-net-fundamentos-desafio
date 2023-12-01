@@ -1,0 +1,14 @@
+E:\Desenvolvimento\dotnet\trilha-net-fundamentos-desafio\bin\Debug\net8.0\trilha-net-fundamentos-desafio.exe
+E:\Desenvolvimento\dotnet\trilha-net-fundamentos-desafio\bin\Debug\net8.0\trilha-net-fundamentos-desafio.deps.json
+E:\Desenvolvimento\dotnet\trilha-net-fundamentos-desafio\bin\Debug\net8.0\trilha-net-fundamentos-desafio.runtimeconfig.json
+E:\Desenvolvimento\dotnet\trilha-net-fundamentos-desafio\bin\Debug\net8.0\trilha-net-fundamentos-desafio.dll
+E:\Desenvolvimento\dotnet\trilha-net-fundamentos-desafio\bin\Debug\net8.0\trilha-net-fundamentos-desafio.pdb
+E:\Desenvolvimento\dotnet\trilha-net-fundamentos-desafio\obj\Debug\net8.0\trilha-net-fundamentos-desafio.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desenvolvimento\dotnet\trilha-net-fundamentos-desafio\obj\Debug\net8.0\trilha-net-fundamentos-desafio.AssemblyInfoInputs.cache
+E:\Desenvolvimento\dotnet\trilha-net-fundamentos-desafio\obj\Debug\net8.0\trilha-net-fundamentos-desafio.AssemblyInfo.cs
+E:\Desenvolvimento\dotnet\trilha-net-fundamentos-desafio\obj\Debug\net8.0\trilha-net-fundamentos-desafio.csproj.CoreCompileInputs.cache
+E:\Desenvolvimento\dotnet\trilha-net-fundamentos-desafio\obj\Debug\net8.0\trilha-net-fundamentos-desafio.dll
+E:\Desenvolvimento\dotnet\trilha-net-fundamentos-desafio\obj\Debug\net8.0\refint\trilha-net-fundamentos-desafio.dll
+E:\Desenvolvimento\dotnet\trilha-net-fundamentos-desafio\obj\Debug\net8.0\trilha-net-fundamentos-desafio.pdb
+E:\Desenvolvimento\dotnet\trilha-net-fundamentos-desafio\obj\Debug\net8.0\trilha-net-fundamentos-desafio.genruntimeconfig.cache
+E:\Desenvolvimento\dotnet\trilha-net-fundamentos-desafio\obj\Debug\net8.0\ref\trilha-net-fundamentos-desafio.dll
