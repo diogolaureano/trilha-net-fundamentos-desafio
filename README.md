@@ -35,4 +35,8 @@ Por último, deverá ser feito um menu interativo com as seguintes ações imple
 
 
 ## Solução
+<<<<<<< HEAD
 O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+=======
+O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+>>>>>>> af631842402b7210d11d91582c4b9744fd18b499
